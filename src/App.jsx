@@ -39,7 +39,7 @@ function App() {
       <p className="text-black text-2xl py-2 font-serif ">{joke.setup}</p>
       <p className="text-white text-xl py-1 font-serif">{joke.punchline}😉</p>
 
-      <span className="text-white absolute bottom-0 right-1"><a className="hover:" href="https://github.com/devkotaapil">&copy; by DevkotaApil</a></span>
+      <span className="text-white absolute bottom-0 right-2"><a className="hover:" href="https://github.com/devkotaapil">&copy; by DevkotaApil</a></span>
     </div>
   );
 }
